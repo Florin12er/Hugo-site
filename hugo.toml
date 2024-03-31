@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://hugo-site-pycu-cbkjc2ogb-florin12ers-projects.vercel.app/"
 title = "Personal Site"
 theme = "m10c"
 paginate = 8
